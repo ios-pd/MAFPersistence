@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'MAFPersistence'
-  s.version          = '0.4.10'
+s.version = '0.5.0'
   s.summary          = 'Mobile Test Framework'
   s.description      = 'This is a cocoapod to improve the security of mobile apps.'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
